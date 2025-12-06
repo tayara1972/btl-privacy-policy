@@ -1,0 +1,107 @@
+Build To Last – Privacy Policy
+
+Last updated: 6 Dec 2025
+
+Build To Last (“we”, “us”, or “our”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our iOS application.
+
+If you do not agree with this policy, please stop using the app.
+
+1. Information We Collect
+1.1 Health Data (via Apple HealthKit)
+
+With your permission, Build To Last may read the following data from Apple Health:
+
+Heart rate
+
+VO₂ max
+
+Active energy and calories
+
+Steps
+
+Sleep analysis
+
+Workout activity
+
+We do not write any data to HealthKit unless you explicitly allow it.
+
+All HealthKit data stays on your device and is never transmitted off your device unless you explicitly back it up through iCloud as part of your normal device backup.
+
+1.2 Usage Data
+
+We may collect anonymous usage information to improve app performance.
+This does not include personal data, HealthKit data, or any information that identifies you.
+
+2. How We Use Your Information
+
+We use the data you provide only for the following purposes:
+
+Calculating heart-rate zones
+
+Tracking fitness progress (workouts, VO₂ max trends, sleep duration, etc.)
+
+Displaying insights and analytics inside the app
+
+Improving app features and performance
+
+We do not:
+
+Sell your data
+
+Use your data for advertising
+
+Share your data with third parties
+
+3. HealthKit and Sensitive Data Compliance
+
+Build To Last integrates with Apple HealthKit.
+Under Apple’s guidelines:
+
+HealthKit data is used only for the features inside the app
+
+Health data is never used for marketing
+
+Health data is never shared with third parties
+
+HealthKit data is never stored on our servers
+
+All HealthKit information remains on your device.
+
+4. Data Storage and Security
+
+The app stores data locally on your device using secure system storage.
+
+No personal data or HealthKit data is stored on external servers.
+
+You can delete all app data at any time by uninstalling the app.
+
+5. Your Choices and Rights
+
+You can:
+
+Grant or revoke HealthKit permissions at any time
+
+Delete all app data by deleting the app
+
+Disable access to Health data through iOS Settings → Health → Apps
+
+6. Children’s Privacy
+
+Build To Last is not intended for children under 13.
+We do not knowingly collect data from anyone under this age.
+
+7. Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+Updates will be reflected by the “Last updated” date at the beginning of this page.
+
+8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact:
+
+Shady Hawwa
+Email: tayara72@gmail.com
+
+
+
+
